@@ -135,14 +135,14 @@ Integrate the model with a web interface, mobile app, or cloud service for real-
 
 Monitor model performance continuously and update with new data if necessary.
 
-Models Used:
+### Models Used:
 ResNet18 – Efficient, accurate, good for medium-sized datasets, fast training.
 
 VGG16 – Deep, detailed feature extraction, suitable for large datasets.
 
 MobileNetV2 – Lightweight, efficient, suitable for low-resource environments or mobile deployment.
 
-Key Considerations:
+### Key Considerations:
 Transfer learning is preferred over training from scratch.
 
 Model selection depends on dataset size, computational resources, and deployment scenario.
