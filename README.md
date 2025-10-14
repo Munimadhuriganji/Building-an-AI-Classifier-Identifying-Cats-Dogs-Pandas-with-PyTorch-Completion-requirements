@@ -124,7 +124,7 @@ Select the class with the highest probability as the predicted label.
 
 This step allows practical use, such as classifying images from a camera or uploaded files.
 
-Step 10: Deployment (Optional)
+### Step 10: Deployment (Optional)
 For real-world usage, convert the trained model to formats suitable for deployment:
 
 TorchScript: For deployment in Python apps or C++ programs.
